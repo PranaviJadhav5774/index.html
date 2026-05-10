@@ -1,4 +1,4 @@
 # Single Page CV
 
 Project URL:
-https://your-netlify-url.netlify.app
+https://single-page-c.netlify.app
