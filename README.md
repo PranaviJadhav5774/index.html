@@ -1,4 +1,4 @@
 # Single Page CV
 
 Project URL:
-[https://single-page-c.netlify.app](https://single-page-c.netlify.app)
+https://github.com/PranaviJadhav5774/index.html
